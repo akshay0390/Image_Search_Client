@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Image Search</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Filters</string>
+    <string name="search_label">Search</string>
+    <string name="search_query_text">Enter Search Text</string>
+    <string name="image_title" />
+    <string name="title_activity_image">Full Screen Image</string>
+    <string name="filter_image_fragment_title">Filter Settings</string>
+    <string name="image_size_filter_label">Image Size     </string>
+    <string name="image_filter_color_label">Image Color</string>
+    <string name="image_color_filter_label">Image Color</string>
+    <string name="image_type_filter_label">Image Type</string>
+    <string name="filter_site_label">Site Filter</string>
+    <string name="save_filter_button_label">Save</string>
+    <string name="cancel_filter_button_label">Cancel</string>
+
+    <string-array name="image_size_array">
+        <item>none</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+
+    <string-array name="image_type_array">
+        <item>none</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+    <string-array name="image_color_array">
+        <item>none</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+</resources>
